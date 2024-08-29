@@ -1,4 +1,4 @@
-Odin Recipes
+#Odin Recipes
 
 This project is a simple recipe website built as part of a learning exercise.
 Project Structure
@@ -6,7 +6,7 @@ Project Structure
     index.html: The main page of the website, containing links to various recipes.
     /recipes/: A directory containing individual recipe pages.
 
-Steps to Build
+#Steps to Build
 
     Create the Main Page:
         Build index.html with basic HTML structure.
@@ -27,7 +27,7 @@ Steps to Build
         Repeat the process for additional recipes.
         Ensure all recipes are linked from the main page.
 
-Publishing the Site
+#Publishing the Site
 
 To make your project accessible on the web:
 
@@ -37,7 +37,7 @@ To make your project accessible on the web:
         Enable GitHub Pages by selecting the main branch.
         Your site will be available at your-github-username.github.io/your-github-repo-name.
 
-Notes
+#Notes
 
     The focus is on meeting the project requirements, not on aesthetics. Your project doesn't need to look like a professional website.
 
